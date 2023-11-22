@@ -78,5 +78,6 @@
 #### ('2010', '2011', '83', 'ACTRESS IN A LEADING ROLE', 'Lubna Azabal ', 'Incendies', '1'),
 #### ('2012', '2013', '85', 'ACTRESS IN A LEADING ROLE', 'Doona Bae', 'Cloud Atlas', '1');
 
-## Pergunta 14 -Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. 
+## Pergunta 14 -Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: Quê prêmio essa pessoa merece?  
 #### Minha mãe. Inúmeras coisas, mas a que eu quero citar é, me ensinou a enxergar possibilidades e com isso me mostrou que eu poderia fazer varias coisas boas na minha vida.
+#### Prêmio de pessoa mais dedicada. 
