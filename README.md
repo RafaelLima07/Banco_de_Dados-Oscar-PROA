@@ -56,10 +56,10 @@ SQL-Script: SELECT id_filme, ano_cerimonia, categoria, nome_do_indicado, nome_fi
 
 ## Pergunta 11 - Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que merecem ser. 
 SQL-Script: 
-INSERT INTO filmes (ano_filmagem, ano_cerimonia, edicao_cerimonia, categoria, nome_do_indicado, nome_filme, vencedor) VALUES 
-('2011', '2012', '84', 'ACTOR', 'Ryan Gosling', 'Drive', '0'), 
-('2004', '2005', '77', 'WRITING', 'Charlie Kaufman', 'Eternal Sunshine of the Spotless Mind', '0'),
-('1994', '1995', '67', 'DIRECTING', 'Frank Darabont', 'The Shawshank Redemption', '0'); 
+<br>INSERT INTO filmes (ano_filmagem, ano_cerimonia, edicao_cerimonia, categoria, nome_do_indicado, nome_filme, vencedor) VALUES </br>
+<br>('2011', '2012', '84', 'ACTOR', 'Ryan Gosling', 'Drive', '0'), </br>
+<br>('2004', '2005', '77', 'WRITING', 'Charlie Kaufman', 'Eternal Sunshine of the Spotless Mind', '0'), </br>
+<br>('1994', '1995', '67', 'DIRECTING', 'Frank Darabont', 'The Shawshank Redemption', '0'); </br>
 
 ## Pergunta 12 - Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?
 2004, 
